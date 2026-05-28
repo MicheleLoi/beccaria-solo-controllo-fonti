@@ -1,0 +1,22 @@
+{
+  "name": "beccaria-solo-controllo-fonti",
+  "version": "1.0.0",
+  "description": "BeccarIA — solo controllo fonti. Singola skill (verifica-fonti) per controllo coerenza citazioni normative italiane ed europee. Nessun bollettino, nessun servizio terzo, nessun catalogo dinamico. La skill fa WebFetch direttamente sui registri pubblici ufficiali (Normattiva, EUR-Lex, Garante, Corte Costituzionale) e opzionalmente Chrome MCP su italgiure.giustizia.it/sncass per Cassazione. Per la versione completa con catalogo/pattern-extractor/ecosystem-scout vedi MicheleLoi/legal-tech-cowork. AGPL-3.0.",
+  "keywords": [
+    "legal",
+    "italian-law",
+    "source-verification",
+    "italy",
+    "beccaria",
+    "regia",
+    "verifica-fonti",
+    "agpl",
+    "minimal-surface"
+  ],
+  "author": {
+    "name": "Michele Loi"
+  },
+  "license": "AGPL-3.0-only",
+  "homepage": "https://github.com/MicheleLoi/beccaria-solo-controllo-fonti",
+  "repository": "https://github.com/MicheleLoi/beccaria-solo-controllo-fonti"
+}

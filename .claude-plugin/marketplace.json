@@ -1,0 +1,16 @@
+{
+  "name": "beccaria-solo-controllo-fonti",
+  "owner": {
+    "name": "Michele Loi"
+  },
+  "plugins": [
+    {
+      "name": "beccaria-solo-controllo-fonti",
+      "source": "./beccaria-solo-controllo-fonti",
+      "description": "BeccarIA — solo controllo fonti. Una singola skill (verifica-fonti) che controlla la coerenza e plausibilità delle citazioni normative italiane ed europee. Nessuna dipendenza esterna oltre alle pagine pubbliche dei registri ufficiali (Normattiva, EUR-Lex, Garante Privacy, Corte Costituzionale, Cassazione via italgiure). Nessun bollettino, nessun servizio terzo, nessun catalogo dinamico — superficie di rischio ridotta al minimo. Per la versione completa con catalogo, pattern-extractor e ecosystem-scout vedi MicheleLoi/legal-tech-cowork. AGPL-3.0.",
+      "author": {
+        "name": "Michele Loi"
+      }
+    }
+  ]
+}
