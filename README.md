@@ -30,7 +30,7 @@ Questo plugin (**solo controllo fonti**) **non fa nulla di tutto questo**:
 - nessuna installazione automatica
 - nessun pattern AGPL applicato dinamicamente
 
-`verifica-fonti` fa esclusivamente `WebFetch` su pagine pubbliche dei registri italiani/UE (Normattiva, EUR-Lex, Garante Privacy, Corte Costituzionale, Cassazione) e — opzionalmente — usa l'estensione **Claude in Chrome** sul sito di Cassazione `italgiure.giustizia.it/sncass` se l'avvocato la installa.
+`verifica-fonti` fa `WebFetch` su pagine pubbliche dei registri italiani/UE (Normattiva, EUR-Lex, Garante Privacy, Corte Costituzionale, Cassazione) e — opzionalmente — usa l'estensione **Claude in Chrome** sul sito di Cassazione `italgiure.giustizia.it/sncass` se l'avvocato la installa. Se l'avvocato aggiunge **per propria scelta** un connettore MCP a una banca dati giuridica di terzi (es. BuddaLaw o Simpliciter), la skill può usarlo come prima ricerca — solo dopo consenso esplicito, con fallback automatico ai registri web — ma **nessun connettore è incluso o richiesto** da questo plugin: di default opera senza dipendenze esterne oltre ai registri pubblici.
 
 **Scegli questo plugin se** vuoi un controllo coerenza fonti senza dipendere da un server di curazione gestito da terzi.
 
